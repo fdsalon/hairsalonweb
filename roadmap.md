@@ -1,0 +1,5 @@
+- [x] Build FRIENDLY SALON’s complete one-page site, sections, responsive navigation, gallery filters, and WhatsApp booking request.
+- [x] Keep unknown business information visibly editable without inventing details.
+- [x] Use the owner-supplied Soshanguve location and avoid implying an exact address.
+- [x] Verify metadata, preview behavior, booking interaction, tests, and commit the changes.
+- [ ] Add the selected hair service groups to the service menu and WhatsApp appointment form; verify phone and desktop layouts.
